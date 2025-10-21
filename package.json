@@ -1,0 +1,23 @@
+{
+  "name": "minicore-backend",
+  "version": "1.0.0",
+  "description": "Sistema de Comisiones con MongoDB",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "seed": "node src/seeds/index.js"
+  },
+  "keywords": ["comisiones", "ventas", "mongodb"],
+  "author": "Hans Ortiz",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

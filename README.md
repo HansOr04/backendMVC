@@ -302,9 +302,4 @@ Invoke-RestMethod -Uri "http://localhost:3001/api/ventas/comisiones?fechaInicio=
 
 ISC
 
----
 
-
----
-
-**¿Listo para usar?** 🚀 Sigue las instrucciones de instalación y ¡comienza a calcular comisiones!

@@ -59,7 +59,7 @@ backend/
 ### 1. Clonar el repositorio o crear el proyecto
 
 ```bash
-git clone <tu-repositorio>
+git clone https://github.com/HansOr04/backendMVC.git
 cd backend
 ```
 
@@ -292,7 +292,7 @@ Invoke-RestMethod -Uri "http://localhost:3001/api/ventas/comisiones?fechaInicio=
 ## 👨‍💻 Autor
 
 **Hans Ortiz**  
-📧 Email: Hans Ortiz  
+📧 Email: hans.ortiz@udla.edu.ec  
 🎓 Universidad: UDLA  
 📅 Fecha: Octubre 2025
 
